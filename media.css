@@ -1,0 +1,208 @@
+@media(max-width:1350px){
+    .box, .box1{
+        padding: 20px 100px;
+    }
+}
+@media(max-width:1115px){
+    .text{
+        font-size: 50px;
+    }
+    .chap{
+        width: 100%;
+    }
+    .flex1{
+        padding-top: 50px;
+        text-align: center;
+    }
+    .www, .p2{
+        padding-bottom: 20px;
+        margin: auto;
+        text-align: center;
+    }
+    .sss{
+        margin: auto;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    .iii{
+        width: 100%;
+    }
+    .q2{
+        width: 100%;
+        margin-top: 20px;
+    }
+    .d{
+        margin: auto;
+        margin-bottom: 20px;
+        text-align: center;
+    }
+    .text2{
+        text-align: center;
+        width: 100%;
+    }
+    .ong{
+        justify-content: center;
+        margin: auto;
+
+    }
+    .box, .box1{
+        padding: 30px 50px;
+    }
+}
+@media(max-width:1030px){
+    .pos, .ggg, .lorem{
+        width: 100%;
+        text-align: center;
+    }
+    .rasm2{
+        left: 200px;
+    }
+    .rasm3{
+        right: 200px;
+    }
+    .ggg{
+        padding-top: 100px;
+    }
+    .quti{
+        width: 48%;
+    }
+    .quti1{
+        width: 100%;
+        margin-top: 30px;
+    }
+    .past{
+        text-align: center;
+    }
+    .flex7, .flex8{
+        justify-content: center;
+    }
+    .b1{
+        margin: auto;
+        margin-top: 25px;
+    }
+    .flex6{
+        flex-direction: column;
+        justify-content: center;
+    }
+    .gh{
+        width: 6%;
+        margin: auto;
+    }
+    .sk{
+        margin-bottom: 10px;
+    }
+    .section1{
+        width: 48%;
+        text-align: center;
+    }
+    .flex11{
+        justify-content: center;
+    }
+    .ch2{
+        margin-right: 54px;
+    }
+    .ch3{
+        margin-right: 17px;
+    }
+    .section3{
+        margin-top: 50px;  
+        width: 100%; 
+    }
+    .lwe, .h4, .text6, .l, .k, .text5{
+        text-align: center;
+        margin: auto;
+        width: 100%;
+    }
+}
+@media(max-width:850px){
+    .h9, .link, .ddd{
+        text-align: center;
+        width: 100%;
+        justify-content: center;
+        margin-top: 20px;
+    }
+    .text{
+        font-size: 40px;
+        width: 100%;
+    }
+    .flex{
+        justify-content: center;
+    }
+}
+@media(max-width:750px){
+    .iii{
+        width: 100%;
+    }
+    .rasm3{
+        right: 52px;
+    }
+    .rasm2{
+        left: 50px;
+    }
+    .section{
+        width: 50%;
+        margin-bottom: 25px;
+    }
+    .input1{
+        width: 30%;
+    }
+    .kat{
+        width: 100%;
+    }
+    .muxa{
+        width: 48%;
+    }
+    .muxa1{
+        margin: auto;
+        margin-top: 25px;
+    }
+    .ka, .pf, .be{
+        text-align: center;
+        width: 100%;
+    }
+}
+@media(max-width:650px){
+    .quti{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .quti1{
+        margin-top: 0
+    }
+    .section1{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .section2{
+        margin-bottom: 0;
+    }
+    .muxa{
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .ert{
+        width: 100%;
+    }
+    .text1{
+        width: 100%;
+    }
+    .inputflex, .input1{
+        width: 4%;
+        align-items: center;
+        justify-content: center;
+    }
+    .form{
+        justify-content: center;
+    }
+    .b{
+        margin: auto;
+    }
+}
+@media(max-width:450px){
+    .rasm3{
+        right: -48px;
+    }
+    .rasm2{
+        left: -67px;
+    }
+}
