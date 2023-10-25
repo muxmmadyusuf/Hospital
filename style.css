@@ -832,16 +832,18 @@ html {
 .inputflex{
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 .input1{
     display: flex;
     width: 68%;
-    padding: 15px 591px 15px 20px;
+    padding: 15px;
     align-items: center;
     border-radius: 5px;
     border: 1px solid #E6E6E6;
     background: #F9F9F9;
     color: var(--second-text-color, #737373);
+    outline: none;
     font-size: 14px;
     font-style: normal;
     font-weight: 400;

@@ -57,6 +57,9 @@
     .rasm2{
         left: 200px;
     }
+    .box{
+        background-position: center;
+    }
     .rasm3{
         right: 200px;
     }
@@ -85,7 +88,7 @@
         justify-content: center;
     }
     .gh{
-        width: 6%;
+        width: auto;
         margin: auto;
     }
     .sk{
@@ -120,6 +123,9 @@
         width: 100%;
         justify-content: center;
         margin-top: 20px;
+    }
+    .box{
+        background-position: center;
     }
     .text{
         font-size: 40px;
@@ -187,9 +193,14 @@
         width: 100%;
     }
     .inputflex, .input1{
-        width: 4%;
+        width: 100%;
         align-items: center;
         justify-content: center;
+    }
+    .sub{
+        border-radius: 6px;
+        margin-top: 25px;
+        width: 30%;
     }
     .form{
         justify-content: center;
@@ -197,12 +208,44 @@
     .b{
         margin: auto;
     }
-}
-@media(max-width:450px){
-    .rasm3{
-        right: -48px;
+    .span{
+        display: none;
     }
-    .rasm2{
-        left: -67px;
+    .box, .box1{
+        padding: 30px 30px;
+    }
+}
+@media(max-width:480px){
+    .rasm2, .rasm3{
+        display: none;
+    }
+    .ong{
+        width: 100%;
+    }
+    .p2{
+        font-size: 25px;
+    }
+    .text{
+        font-size: 30px;
+    }
+    .text4{
+        font-size: 30px;
+    }
+    .ka, .inp{
+        font-size: 30px;
+    }
+    .box, .box1{
+        padding: 30px 30px;
+    }
+}
+@media(max-width:350px){
+    .text{
+        font-size: 25px;
+    }
+    .b{
+        width: 100%;
+    }
+    .but{
+        line-height: 15px;
     }
 }
